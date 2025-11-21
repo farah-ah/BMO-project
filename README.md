@@ -6,7 +6,7 @@ It combines 3D design, electronics, and code to create an interactive, standalon
 ---
 
 ## ✨ Features
-- 🖥️ Custom 3D-printed BMO shell with mounted components  
+- 🖥️ Custom 3D-printed BMO shell with mounted components [Link to the 3D model open-source](https://www.printables.com/model/1139445-adventure-time-bmo-figure-interactive)
 - 🎨 TFT display showing BMO’s face and text animations  
 - 💾 SD card storage for images and audio files  
 - 🔊 Speaker output for the *Adventure Time* intro theme  
